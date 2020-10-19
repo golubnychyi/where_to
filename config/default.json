@@ -1,0 +1,10 @@
+{
+  "BrowserType": "chrome",
+  "url": "http://qa-48.w2.ae/",
+  "userName": "put valid value",
+  "userPassword": "put valid value",
+  "airportBangkok": "BKK",
+  "airportLondon": "LHR",
+  "explicitWaitMS": 5000,
+  "mochaTimeoutMS": 30000
+}
